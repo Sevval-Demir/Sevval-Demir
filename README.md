@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sevval</h1>
 <h3 align="center">Journey of a Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on [WebDev](https://github.com/Sevval-Demir/WebDev)
+- 🔭 I’m currently working on [AcunMedya Travel Project](https://github.com/Sevval-Demir/AcunMedyaTravelProject)
 
 - 🌱 I’m currently learning **FastAPI .NET MVC TensorFlow OpenCV**
 
