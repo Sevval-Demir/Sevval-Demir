@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [MvcOnlineTicariOtomasyon](https://github.com/Sevval-Demir/MvcOnlineTicariOtomasyon)
 
-- 🔭 I’m currently working on [DataScience](https://github.com/Sevval-Demir/DataScience)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sevval-Demir](https://github.com/Sevval-Demir)
 
 - 📫 How to reach me **sevvaldemirrt@gmail.com**
