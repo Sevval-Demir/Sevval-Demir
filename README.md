@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on [MyPortfolio Project](https://github.com/Sevval-Demir/MyPortfolio.git)
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Sevval-Demir/MachineLearning.git)
+  
+-  🔭 I’m currently working on [AcunMedya Class Project](https://github.com/Sevval-Demir/AcunMedyaClassProject.git)
 
 - 🌱 I’m currently learning **FastAPI ASP.NET MVC TensorFlow OpenCV**
 
