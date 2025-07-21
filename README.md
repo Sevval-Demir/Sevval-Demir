@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sevval</h1>
 <h3 align="center">Journey of a Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on [AcunMedya Sports Project](https://github.com/Sevval-Demir/AcunMedyaSportsProject.git)
+- 🔭 I’m currently working on [Survey App](https://github.com/Sevval-Demir/SurveyApp)
 
 - 🔭 I’m currently working on [MyPortfolio Project](https://github.com/Sevval-Demir/MyPortfolio.git)
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Sevval-Demir/MachineLearning.git)
   
--  🔭 I’m currently working on [AcunMedya Class Project](https://github.com/Sevval-Demir/AcunMedyaClassProject.git)
-
 - 🌱 I’m currently learning **FastAPI ASP.NET MVC TensorFlow OpenCV**
 
 - 🔭 I’m currently working on [MvcOnlineTicariOtomasyon](https://github.com/Sevval-Demir/MvcOnlineTicariOtomasyon)
