@@ -9,8 +9,6 @@
   
 - 🌱 I’m currently learning **FastAPI ASP.NET MVC TensorFlow OpenCV**
 
-- 🔭 I’m currently working on [MvcOnlineTicariOtomasyon](https://github.com/Sevval-Demir/MvcOnlineTicariOtomasyon)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sevval-Demir](https://github.com/Sevval-Demir)
 
 - 📫 How to reach me **sevvaldemirrt@gmail.com**
