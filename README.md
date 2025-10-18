@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sevval</h1>
 <h3 align="center">Journey of a Computer Engineering Student</h3>
   
-- 🌱 I’m currently learning **FastAPI ASP.NET MVC TensorFlow OpenCV**
+- 🌱 I’m currently learning **ASP.NET Machine Learning Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sevval-Demir](https://github.com/Sevval-Demir)
 
