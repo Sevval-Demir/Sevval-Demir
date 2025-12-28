@@ -11,45 +11,59 @@
   <a href="mailto:sevvaldemirrt@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sevval-Demir">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 🎓 3rd year **Computer Engineering** student  
-- 🔍 Curious about **software systems, backend logic & data**
-- 🧪 Learning by building small, real projects  
-- 🧱 Prefer understanding things deeply before optimizing  
+- 🧠 Curious about **how systems are designed, not just how they are used**
+- 🔍 Interested in backend architectures, data pipelines, and intelligent systems  
+- 🛠 I learn by experimenting, reading, implementing, and refining  
+- 📐 I value depth, structure, and reasoning over quick results  
 
-> *If it works but you don’t understand it, it doesn’t really work.*
-
----
-
-### 🚀 Currently Exploring
-
-- Backend development (**ASP.NET, databases**)
-- Data analysis & fundamentals of machine learning
-- Computer vision basics (**OpenCV, experimentation**)
-- Writing cleaner and more intentional code
+> *Understanding is a requirement, not a bonus.*
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 What I’m Actively Exploring
+
+### Backend & Systems
+- Backend development with **ASP.NET** and **Java Spring Boot**
+- RESTful API design, layered architectures, and clean code practices  
+- Relational databases, query optimization, and data modeling  
+
+### Data & Machine Learning
+- Data analysis workflows and feature thinking  
+- Fundamentals of machine learning (models, evaluation, limitations)  
+- Using ML as a **tool**, not magic  
+
+### Computer Vision
+- Image processing basics with **OpenCV**
+- Experimenting with vision-based ideas and datasets  
+- Understanding where theory meets real-world noise  
+
+### Engineering Practices
+- Writing **maintainable, readable, explainable** code  
+- Version control with Git and collaborative workflows  
+- Learning to think like an engineer, not just a coder  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,mysql,sqlite,git,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,python,dotnet,mysql,sqlite,git,opencv,tensorflow" />
 </p>
 
 ---
 
-### 📌 Philosophy
+## 📌 Mindset
 
-- Fundamentals first  
-- Simple > complicated  
-- Build → break → fix → learn  
+- Fundamentals before tools  
+- Design before implementation  
+- Depth over speed  
+- Build → break → analyze → rebuild  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
