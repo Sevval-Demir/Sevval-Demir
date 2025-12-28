@@ -39,11 +39,6 @@
 - Fundamentals of machine learning (models, evaluation, limitations)  
 - Using ML as a **tool**
 
-### Computer Vision
-- Image processing basics with **OpenCV**
-- Experimenting with vision-based ideas and datasets  
-- Understanding where theory meets real-world noise  
-
 ### Engineering Practices
 - Writing **maintainable, readable, explainable** code  
 - Version control with Git and collaborative workflows  
