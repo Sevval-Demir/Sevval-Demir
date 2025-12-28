@@ -37,7 +37,7 @@
 ### Data & Machine Learning
 - Data analysis workflows and feature thinking  
 - Fundamentals of machine learning (models, evaluation, limitations)  
-- Using ML as a **tool**, not magic  
+- Using ML as a **tool**
 
 ### Computer Vision
 - Image processing basics with **OpenCV**
