@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Insights
-
-![Şevval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sevval-Demir&show_icons=true&theme=radical&hide=stars&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevval-Demir&layout=compact&theme=radical&cache_seconds=86400)
-
----
-
 ### 📌 Philosophy
 
 - Fundamentals first  
