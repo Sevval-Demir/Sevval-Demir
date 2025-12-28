@@ -49,7 +49,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,python,dotnet,mysql,sqlite,git,opencv,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,spring,python,dotnet,mysql,sqlite,git,opencv,tensorflow,ai" />
 </p>
 
 ---
