@@ -48,13 +48,9 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevval-demir&show_icons=true&theme=radical&hide=stars"/>
-</p>
+![Şevval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sevval-Demir&show_icons=true&theme=radical&hide=stars&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevval-demir&layout=compact&theme=radical"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevval-Demir&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
