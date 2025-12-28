@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm Şevval 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Şevval!&fontSize=40&fontAlignY=35"/>
+
 <p align="center">
-  Computer Engineering Student • Software & Data Curious • Builder Mindset
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3FBF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Software+%26+Data+Curious;Builder+Mindset" />
 </p>
 
 <p align="center">
@@ -20,36 +21,27 @@
 ### 🧠 About Me
 
 - 🎓 3rd year **Computer Engineering** student  
-- 🔍 Curious about **software systems, data, and how things work under the hood**
-- 🧪 Building projects that mix **backend logic and data-driven features**
-- 🧱 Learn by *building → breaking → fixing*
+- 🔍 Curious about **software systems, backend logic & data**
+- 🧪 Learning by building small, real projects  
+- 🧱 Prefer understanding things deeply before optimizing  
 
-> *Understanding comes before optimization.*
+> *If it works but you don’t understand it, it doesn’t really work.*
 
 ---
 
 ### 🚀 Currently Exploring
 
-- **Backend development (ASP.NET, databases)**
-- **Data analysis & basic machine learning concepts**
-- **Computer vision fundamentals (OpenCV, experimentation)**
-- Writing cleaner, more maintainable code
+- Backend development (**ASP.NET, databases**)
+- Data analysis & fundamentals of machine learning
+- Computer vision basics (**OpenCV, experimentation**)
+- Writing cleaner and more intentional code
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dotnet,mysql,sqlite,git,opencv,tensorflow" />
 </p>
 
 ---
@@ -57,7 +49,11 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevval-demir&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sevval-demir&show_icons=true&theme=radical&hide=stars"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sevval-demir&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -65,5 +61,7 @@
 ### 📌 Philosophy
 
 - Fundamentals first  
-- Simple > smart-looking  
-- If you can’t explain it, you don’t own it  
+- Simple > complicated  
+- Build → break → fix → learn  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
