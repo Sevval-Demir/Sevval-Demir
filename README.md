@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20Şevval!&fontSize=40&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3FBF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Software+%26+Data+Curious;Builder+Mindset" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3FBF&center=true&vCenter=true&width=500&lines=4th+Year+Computer+Engineering+Student;Software+%26+Data+Curious;Builder+Mindset" />
 </p>
 
 <p align="center">
@@ -17,32 +17,32 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd year **Computer Engineering** student  
-- 🧠 Curious about **how systems are designed, not just how they are used**
-- 🔍 Interested in backend architectures, data pipelines, and intelligent systems  
-- 🛠 I learn by experimenting, reading, implementing, and refining  
-- 📐 I value depth, structure, and reasoning over quick results  
+- 🎓 **Final Year Computer Engineering** student stepping into the industry with a solid theoretical and practical foundation.
+- 🧠 Deeply curious about **how systems work under the hood**, focusing on building robust, scalable backend frameworks and intelligent applications.
+- 🔍 Passionate about software architecture, automated system simulations, and signal-based deep learning workflows.
+- 🛠 Detail-oriented and analytical solver. I thrive on breaking complex problems down, analyzing root causes, and rebuilding optimized systems.  
+- 📐 I value structural depth, clean code, and algorithmic reasoning over quick-fix solutions.  
 
 > *Understanding is a requirement, not a bonus.*
 
 ---
 
-## 🚀 What I’m Actively Exploring
+## 🚀 Key Areas of Focus
 
-### Backend & Systems
-- Backend development with **ASP.NET** and **Java Spring Boot**
-- RESTful API design, layered architectures, and clean code practices  
-- Relational databases, query optimization, and data modeling  
+### 🖥 Backend & Systems Architecture
+- Crafting clean, scalable backend systems using **Java Spring Boot** and **ASP.NET Core**.
+- Designing RESTful APIs, implementing layered/clean architectures, and optimizing relational databases.
+- Interested in low-level systems, automated compilation mechanics, and efficient graph-based routing.
 
-### Data & Machine Learning
-- Data analysis workflows and feature thinking  
-- Fundamentals of machine learning (models, evaluation, limitations)  
-- Using ML as a **tool**
+### 📊 Data Science & Intelligent Systems
+- End-to-end data pipelines: Feature engineering, model evaluation, and architectural thinking.
+- Experienced in deep learning frameworks (CNNs, Transformers) and specialized datasets (including biomedical signals and real-time vision analytics).
+- Approaching Machine Learning as a powerful engineering tool to solve complex, real-world problems.
 
-### Engineering Practices
-- Writing **maintainable, readable, explainable** code  
-- Version control with Git and collaborative workflows  
-- Learning to think like an engineer, not just a coder  
+### ⚙ Engineering Practices
+- Writing **maintainable, testable, and self-documenting** code.
+- Professional Git workflows, structured branching, and collaborative synchronization.
+- Developing a true engineering mindset: Design before implementation.
 
 ---
 
@@ -54,11 +54,11 @@
 
 ---
 
-## 📌 Mindset
+## 📌 Core Mindset
 
-- Fundamentals before tools  
-- Design before implementation  
-- Depth over speed  
-- Build → break → analyze → rebuild  
+- 🏗 **Fundamentals over tools** – Frameworks change, core principles stay.
+- 📐 **Design before implementation** – Measure twice, cut once.
+- 🔍 **Depth over speed** – Solving the root cause, not the symptom.
+- 🔄 **Build → Break → Analyze → Rebuild** – The ultimate feedback loop.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
